@@ -1,0 +1,1 @@
+A Registration Form Validation project built using HTML, CSS, and JavaScript. The application validates user inputs such as name, email, password, and confirm password. It ensures required fields are completed, verifies email format, checks password matching, and displays appropriate validation messages.
